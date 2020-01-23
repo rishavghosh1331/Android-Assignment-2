@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HPWARRANTY_OPTIN_NODE">A kapcsolattartási lehetőségek, a garanciával kapcsolatos információk és a fontos támogatási üzenetek megjelenítésének engedélyezése a számítógépemen.</label>
+<defaultvalue>true</defaultvalue>
+</item>
+</list>

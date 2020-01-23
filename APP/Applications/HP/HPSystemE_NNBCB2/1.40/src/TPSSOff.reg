@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_06CB&PID_5710\6&c2a2e74&0&6\Device Parameters]
+"SelectiveSuspendOn"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_06CB&PID_5711\6&c2a2e74&0&6\Device Parameters]
+"SelectiveSuspendOn"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\USB\VID_06CB&PID_2239\6&c2a2e74&0&6\Device Parameters]
+"SelectiveSuspendOn"=dword:00000000

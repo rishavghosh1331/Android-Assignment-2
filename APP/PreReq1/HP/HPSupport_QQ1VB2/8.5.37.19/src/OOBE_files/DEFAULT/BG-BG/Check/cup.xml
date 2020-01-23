@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Last Minute 1C14 Enhancement for USA/EN-US-->
+<list>
+  <item>
+    <label hash="HPCRITUPD_OPTIN_NODE">
+      Поддържам компютъра си актуализиран с автоматично актуализиране на важни драйвери и софтуер от HP.</label>
+    <defaultvalue>true</defaultvalue>
+  </item>
+</list>

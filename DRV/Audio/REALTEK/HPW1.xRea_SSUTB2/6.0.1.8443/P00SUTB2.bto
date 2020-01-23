@@ -1,0 +1,17 @@
+@REM Starting installation of HPW1.xRea_SSUTB2
+
+
+@IFFILE(C:\System.sav\Util\instupd.vbs)
+@SingleObj cmd.exe /c CSCRIPT.EXE /NOLOGO C:\System.sav\Util\instupd.vbs c:\SWSETUP\DRV\Audio\REALTEK\HPW1.xRea_SSUTB2\6.0.1.8443\install.cmd
+@ELSE
+@SingleObj cmd.exe /c c:\SWSETUP\DRV\Audio\REALTEK\HPW1.xRea_SSUTB2\6.0.1.8443\install.cmd
+@ENDIF
+
+@REM Adding a CDC check is optional and can be used to verify a
+@REM file is present on the hard drive.
+@REM @CDCAppName HPW1.xRea_SSUTB2
+@REM @CDCFileExist ADD_FULL_PATH_TO_BINARY_HERE
+@REM For example @CDCFileExist "C:\SWSetup\HP Power Manager\Verdiem Energy Saver.ico"
+
+
+@REM Finished installation of HPW1.xRea_SSUTB2

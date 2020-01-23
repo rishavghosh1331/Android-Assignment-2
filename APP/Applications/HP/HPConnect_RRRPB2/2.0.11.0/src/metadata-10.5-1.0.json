@@ -1,0 +1,50 @@
+﻿{
+    "name" : "Network Recovery",
+    "id" : "10.5",
+    "version" : "1.0",
+    "fields" :
+    [
+        {
+            "id" : "1",
+            "name" : "DeviceID",
+            "type" : "varchar(128)",
+            "nullable" : "false"
+        },
+        {
+            "id" : "2",
+            "name" : "DeviceName",
+            "type" : "varchar(128)",
+            "nullable" : false
+        },
+		{
+            "id" : "3",
+            "name" : "NetworkType",
+            "type" : "varchar(32)",
+            "nullable" : false
+        },
+		{
+            "id" : "4",
+            "name" : "ConnectionError",
+            "type" : "varchar(64)",
+            "nullable" : false
+        },
+		{
+            "id" : "5",
+            "name" : "RecoveryResult",
+            "type" : "varchar(64)",
+            "nullable" : false
+        },
+		{
+            "id" : "6",
+            "name" : "RecoveryMethod",
+            "type" : "varchar(64)",
+            "nullable" : false
+        },
+		{
+            "id" : "7",
+            "name" : "RecoveryDuration",
+            "type" : "integer",
+            "nullable" : false
+        }
+    ]
+}  

@@ -1,0 +1,236 @@
+﻿[CVA File Information]
+CVATimeStamp=20170620T024956
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Windows 10 Image Customization Tweaks - CPS
+
+[US.Software Description]
+Windows 10 Image Customization Tweaks - CPS
+
+[General]
+PN=P00P9Y-B2N
+Version=2.00
+Revision=A
+Pass=2
+Type=SWOption
+Category=Preinstall Tool - Image
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=HP
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT64=OEM
+
+
+[System Information]
+SysId01=0x828A
+SysName01=HP HP ENVY 750-4xx Desktop PC;HP HP ENVY 750-5xxPC Desktop PC;HP Pavilion  560-p0xx Desktop PC;HP Pavilion  560-p1xx Desktop PC;OMEN by HP 870-xxx Desktop PC
+SysId02=0x82F1
+SysName02=HP HP ENVY 750-5xxPC Desktop PC;HP Pavilion  560-p1xx Desktop PC
+SysId03=0x83C1
+SysName03=HP ENVY 750-6xx Desktop PC;OMEN by HP 870-3xx Desktop PC
+SysId04=0x8399
+SysName04=HP HP ENVY Desktop PC;HP Pavilion  560-p0xx Desktop PC
+SysId05=0x81FB
+SysName05=
+SysId06=0x81FC
+SysName06=
+SysId07=0x81FD
+SysName07=
+SysId08=0x81FE
+SysName08=
+SysId09=0x83A7
+SysName09=HP ENVY 13
+SysId10=0x83A8
+SysName10=HP ENVY 13
+SysId11=0x83A9
+SysName11=HP ENVY 13
+SysId12=0x83AA
+SysName12=HP ENVY 13
+SysId13=0x83AB
+SysName13=HP ENVY 13
+SysId14=0x83AC
+SysName14=HP ENVY 13
+SysId15=0x8322
+SysName15=HP 14 Laptop
+SysId16=0x831F
+SysName16=HP 14 Laptop
+SysId17=0x81EB
+SysName17=HP;HP 250 G5;HP 256 G5
+SysId18=0x81EC
+SysName18=HP;HP 250 G5;HP 256 G5
+SysId19=0x81EF
+SysName19=HP;HP 250 G5;HP 256 G5
+SysId20=0x81F0
+SysName20=HP;HP 250 G5;HP 256 G5
+SysId21=0x81F1
+SysName21=HP;HP 250 G5;HP 256 G5
+SysId22=0x81F2
+SysName22=HP
+SysId23=0x81ED
+SysName23=;HP 250 G5;HP 256 G5
+SysId24=0x81EE
+SysName24=;HP 250 G5;HP 256 G5
+SysId25=0x81F3
+SysName25=;HP 250 G5;HP 256 G5
+SysId26=0x81F4
+SysName26=
+SysId27=0x825D
+SysName27=
+SysId28=0x825E
+SysName28=
+SysId29=0x8261
+SysName29=
+SysId30=0x8262
+SysName30=
+SysId31=0x816C
+SysName31=
+SysId32=0x816D
+SysName32=
+SysId33=0x816E
+SysName33=
+SysId34=0x816F
+SysName34=
+SysId35=0x819F
+SysName35=
+SysId36=0x8143
+SysName36=HP Pavilion x360 Convertible
+SysId37=0x82A8
+SysName37=HP Pavilion x360 Convertible
+SysId38=0x832E
+SysName38=HP 15 Laptop;HP 258 G6;HP 250 G6;HP 256 G6
+SysId39=0x832F
+SysName39=HP 15 Laptop
+SysId40=0x832A
+SysName40=HP 15 Laptop;HP 258 G6;HP 250 G6;HP 256 G6
+SysId41=0x832B
+SysName41=HP 15 Laptop;HP 258 G6;HP 250 G6;HP 256 G6
+SysId42=0x8328
+SysName42=HP 258 G6;HP 250 G6;HP 256 G6
+SysId43=0x8329
+SysName43=HP 258 G6;HP 250 G6;HP 256 G6
+SysId44=0x832C
+SysName44=HP 258 G6;HP 250 G6;HP 256 G6
+SysId45=0x82C1
+SysName45=HP Spectre x360 Convertible
+SysId46=0x827F
+SysName46=HP Spectre x360 Convertible
+SysId47=0x8294
+SysName47=
+SysId48=0x8259
+SysName48=
+SysId49=0x825A
+SysName49=
+SysId50=0x82EA
+SysName50=
+SysId51=0x8392
+SysName51=OMEN by HP 17 Laptop PC
+SysId52=0x8393
+SysName52=OMEN by HP 17 Laptop PC
+SysId53=0x8394
+SysName53=OMEN by HP 17 Laptop PC
+SysId54=0x8373
+SysName54=r0xx All-in-One PC
+SysId55=0x8374
+SysName55=r0xx All-in-One PC
+SysId56=0x838B
+SysName56=r0xx All-in-One PC
+SysId57=0x839D
+SysName57=x0xx All-in-One PC
+SysId58=0x839E
+SysName58=x0xx All-in-One PC
+SysId59=0x838C
+SysName59=x0xx All-in-One PC
+SysId60=0x835D
+SysName60=HP 14 Laptop;HP 14s Laptop
+SysId61=0x835E
+SysName61=HP 14 Laptop;HP 14s Laptop
+SysId62=0x835F
+SysName62=HP 14 Laptop;HP 14s Laptop
+SysId63=0x8360
+SysName63=HP 14 Laptop;HP 14s Laptop
+SysId64=0x83F6
+SysName64=
+SysId65=0x840D
+SysName65=
+SysId66=0x8219
+SysName66=
+SysId67=0x821A
+SysName67=
+SysId68=0x8422
+SysName68=
+SysId69=0x838F
+SysName69=OMEN by HP 15 Laptop PC
+SysId70=0x8390
+SysName70=OMEN by HP 15 Laptop PC
+SysId71=0x8391
+SysName71=OMEN by HP 15 Laptop PC
+SysId72=0x8215
+SysName72=
+SysId73=0x8216
+SysName73=
+SysId74=0x83AD
+SysName74=HP ENVY 17m
+SysId75=0x83AE
+SysName75=HP ENVY 17m
+SysId76=0x83AF
+SysName76=HP ENVY 17m
+SysId77=0x83B0
+SysName77=HP ENVY 17m
+SysId78=0x83B1
+SysName78=HP ENVY 17m
+SysId79=0x8213
+SysName79=
+SysId80=0x8214
+SysName80=
+SysId81=0x81C9
+SysName81=HP Pavilion Wave 600-axxx Desktop;HP Pavilion Wave 600-a1xx Desktop;HP Pavilion Wave 600-a2xx Desktop
+SysId82=0x82FD
+SysName82=HP Pavilion Wave 600-a1xx Desktop;HP Pavilion Wave 600-a2xx Desktop
+SysId83=0x82F3
+SysName83=HP Pavilion Wave 600-a3XX Desktop
+SysId84=0x2330
+SysName84=
+SysId85=0x8015
+SysName85=
+SysId86=0x8217
+SysName86=
+SysId87=0x8218
+SysName87=
+SysId88=0x2B4B
+SysName88=OMEN by HP 870-xxx Desktop PC
+SysId89=0x830C
+SysName89=
+SysId90=0x81B6
+SysName90=0xx Desktop PC
+
+[Install Execution]
+Install=
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and
+saving the file to a folder on your hard drive (make a note of the folder where
+the downloaded file is saved).
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 06/20/2017
+Copyright © 2017 HP Development Company, L.P. 

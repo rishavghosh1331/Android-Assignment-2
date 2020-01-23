@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Last Minute 1C14 Enhancement for USA/EN-US-->
+<list>
+  <item>
+    <label hash="HPWARRANTY_OPTIN_NODE">Doresc ca PC-ul să afişeze opţiuni de contact pentru asistenţă şi informaţii despre starea garanţiei.</label>
+    <defaultvalue>false</defaultvalue>
+  </item>
+</list>

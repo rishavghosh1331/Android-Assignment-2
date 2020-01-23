@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=HP Connection Optimizer
+Version=2.0.11.0
+Company=HP Inc.
+Lang=0409

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HPWARRANTY_OPTIN_NODE">啟用我的電腦顯示聯絡選項、授權資訊及重要的支援訊息。</label>
+<defaultvalue>false</defaultvalue>
+</item>
+</list>

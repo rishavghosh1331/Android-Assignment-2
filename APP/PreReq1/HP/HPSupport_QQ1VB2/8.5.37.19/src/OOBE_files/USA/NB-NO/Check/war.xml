@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Last Minute 1C14 Enhancement for USA/EN-US-->
+<list>
+  <item>
+    <label hash="HPWARRANTY_OPTIN_NODE">Gjør det mulig for PC-en å vise kontaktalternativer for hjelp og garantistatusinformasjon.</label>
+    <defaultvalue>true</defaultvalue>
+  </item>
+</list>

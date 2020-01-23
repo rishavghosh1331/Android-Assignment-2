@@ -1,0 +1,47 @@
+[INSTALL_SEQUENCE]
+//INSTALL%1 defines install sequence
+INSTALL_1="UNINSTALL_PROGRAM"
+//INSTALL_2="INSTALL_MSI_PROGRAM"
+//INSTALL_3="COMMAND"
+INSTALL_4="COMMAND_INSTALL"
+
+[UNINSTALL_PROGRAM]
+//UNINSTALL%1 defines unintall program from "Programs and Features" control panel
+UNINSTALL_1="Energy Star"
+//UNINSTALL_2="Safari"
+
+[INSTALL_MSI_PROGRAM]
+//INSTALL_32 defines that installs on 32bits OS
+//INSTALL_64 defines that installs on 64bits OS
+//INSTALL_32="Setupx86.msi"
+//INSTALL_64="setupX64.msi"
+
+[COMMAND]
+//COMMAND%1 defines execution command that execute in COMMAND_ section.
+COMMAND_1="INSTALL.BAT"
+
+[COMMAND_INSTALL]
+INSTALL_1="COMMAND_1"
+//INSTALL_2="COMMAND_2"
+
+[SYSTEM_ID]
+//SYSTEM_ID_1="1486"
+//SYSTEM_ID_2="2345"
+//SYSTEM_ID_3="3456"
+//SYSTEM_ID_4="4567"
+
+[COMMAND_SYSTEM_ID]
+//%SYSID% defines command sequence for specific system ID
+//SYSTEM_ID_1="COMMAND_1"
+//SYSTEM_ID_1="COMMAND_2"
+
+[RETURN_CODE]
+RETURN_CODE_32="COMMAND_1"
+RETURN_CODE_64="COMMAND_1"
+
+[RETURN_CODE_TRANSLATION]
+//%1 defines specific return code from execution command return by RETURN_CODE
+//Setup.exe returns translated return code.
+//HPSA Supported return codes are: 0="Success", 259="Failure", 1602="Cancel", 3010="Success Reboot Required"
+//Intel returns 14 as "Success Reboot Required"
+//14="3010"

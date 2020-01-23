@@ -1,0 +1,17 @@
+@REM Starting installation of HPWireles_SSJ0B2
+
+
+@IFFILE(C:\System.sav\Util\instupd.vbs)
+@SingleObj cmd.exe /c CSCRIPT.EXE /NOLOGO C:\System.sav\Util\instupd.vbs c:\SWSETUP\APP\Applications\HP\HPWireles_SSJ0B2\2.1.3.1\install.cmd
+@ELSE
+@SingleObj cmd.exe /c c:\SWSETUP\APP\Applications\HP\HPWireles_SSJ0B2\2.1.3.1\install.cmd
+@ENDIF
+
+@REM Adding a CDC check is optional and can be used to verify a
+@REM file is present on the hard drive.
+@REM @CDCAppName HPWireles_SSJ0B2
+@REM @CDCFileExist ADD_FULL_PATH_TO_BINARY_HERE
+@REM For example @CDCFileExist "C:\SWSetup\HP Power Manager\Verdiem Energy Saver.ico"
+
+
+@REM Finished installation of HPWireles_SSJ0B2

@@ -1,0 +1,56 @@
+﻿[CVA File Information]
+CVATimeStamp=20180912T030009
+CVASyntaxVersion=2.1A9
+
+[Software Title]
+US=Factory Update for Win10 DPK Matrix Mapping
+
+[US.Software Description]
+Factory Update for Win10 DPK Matrix Mapping
+
+[General]
+PN=P00ULK-B2B
+Version=1.00
+Revision=A
+Pass=2
+Type=SWOption
+Category=Preinstall Tool - Image
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=HP
+VendorVersion=
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[ProfessionalInnovations]
+HPPI=No
+LearnMore=
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[DetailFileInformation]
+
+
+[System Information]
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+
+[Install Execution]
+Install=
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[CVAToolDocumentStamp]
+Generate By CVA Tool V1.1.0.5; Spec V2.1 A9 on 9/12/2018 3:00:09 AM
+Copyright © 2018 HP Development Company, L.P.
+

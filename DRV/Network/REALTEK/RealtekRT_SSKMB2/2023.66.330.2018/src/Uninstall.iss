@@ -1,0 +1,15 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{901F0D4C-009D-4112-8DE4-03599E7B0C5C}-DlgOrder]
+Dlg0={901F0D4C-009D-4112-8DE4-03599E7B0C5C}-AskYesNo-0
+Count=2
+Dlg1={901F0D4C-009D-4112-8DE4-03599E7B0C5C}-SdFinish-0
+[{901F0D4C-009D-4112-8DE4-03599E7B0C5C}-AskYesNo-0]
+Result=1
+[{901F0D4C-009D-4112-8DE4-03599E7B0C5C}-SdFinish-0]
+Result=1
+bOpt1=0
+bOpt2=0

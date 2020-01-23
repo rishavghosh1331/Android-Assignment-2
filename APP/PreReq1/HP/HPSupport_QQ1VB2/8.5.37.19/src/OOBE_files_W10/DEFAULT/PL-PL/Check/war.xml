@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HPWARRANTY_OPTIN_NODE">Włącz w moim komputerze wyświetlanie opcji kontaktowych, informacji na temat gwarancji oraz ważnych komunikatów pomocy technicznej.</label>
+<defaultvalue>false</defaultvalue>
+</item>
+</list>

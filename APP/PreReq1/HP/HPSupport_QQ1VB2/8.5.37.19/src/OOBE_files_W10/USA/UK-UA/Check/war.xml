@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HPWARRANTY_OPTIN_NODE">Дозволити показувати контактні дані, інформацію щодо гарантії та важливі повідомлення служби підтримки на моєму комп’ютері.</label>
+<defaultvalue>true</defaultvalue>
+</item>
+</list>

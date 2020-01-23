@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HP_CIP_OPTIN_NODE">Pom. zdok. kv. prod. HP tak, že sa podel. o inf. týk sa vami použ. soft a hardv. HP a iných značiek.</label>
+<defaultvalue>false</defaultvalue>
+</item>
+</list>

@@ -1,0 +1,281 @@
+﻿[CVA File Information]
+CVATimeStamp=20170104T023127
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Windows 10 RedStone HP OS Enhancement - CPS
+
+[US.Software Description]
+Tweaks for OS requirements and for fixing OS bug(s) by TDC for Windows 10 RedStone
+
+[General]
+PN=P00QL4-B2B
+Version=1.00
+Revision=A
+Pass=2
+Type=SWOption
+Category=OS - Add-ons
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=HP
+VendorVersion=1.00.1.2
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+
+
+[System Information]
+SysId01=0x828A
+SysName01=HP HP ENVY 750-4xx  Desktop PC;HP HP ENVY 750-5xxPC  Desktop PC;HP Pavilion  560-p0xx  Desktop PC;HP Pavilion  560-p1xx  Desktop PC;OMEN by HP 870-xxx  Desktop PC
+SysId02=0x82F1
+SysName02=HP HP ENVY 750-5xxPC  Desktop PC;HP Pavilion  560-p1xx  Desktop PC
+SysId03=0x81FB
+SysName03=
+SysId04=0x81FC
+SysName04=
+SysId05=0x81FD
+SysName05=
+SysId06=0x81FE
+SysName06=
+SysId07=0x81AA
+SysName07=HP ENVY x360 m6
+SysId08=0x81AB
+SysName08=HP ENVY x360 m6
+SysId09=0x82BD
+SysName09=
+SysId10=0x831C
+SysName10=HP Notebook 14 Laptop PC;HP 240 G6;HP 246 G6
+SysId11=0x831D
+SysName11=HP Notebook 14 Laptop PC
+SysId12=0x831E
+SysName12=HP Notebook 14 Laptop PC;HP 240 G6;HP 246 G6
+SysId13=0x831F
+SysName13=HP Notebook 14 Laptop PC
+SysId14=0x8320
+SysName14=HP Notebook 14 Laptop PC;HP 240 G6;HP 246 G6
+SysId15=0x81EB
+SysName15=HP;HP 250 G5;HP 256 G5
+SysId16=0x81EC
+SysName16=HP;HP 250 G5;HP 256 G5
+SysId17=0x81EF
+SysName17=HP;HP 250 G5;HP 256 G5
+SysId18=0x81F0
+SysName18=HP;HP 250 G5;HP 256 G5
+SysId19=0x81F1
+SysName19=HP;HP 250 G5;HP 256 G5
+SysId20=0x81F2
+SysName20=HP
+SysId21=0x81ED
+SysName21=;HP 250 G5;HP 256 G5
+SysId22=0x81EE
+SysName22=;HP 250 G5;HP 256 G5
+SysId23=0x81F3
+SysName23=;HP 250 G5;HP 256 G5
+SysId24=0x81F4
+SysName24=
+SysId25=0x81F5
+SysName25=HP;HP 255 G5
+SysId26=0x81F6
+SysName26=HP
+SysId27=0x81F9
+SysName27=HP
+SysId28=0x81FA
+SysName28=HP
+SysId29=0x82F6
+SysName29=HP;HP 255 G5
+SysId30=0x82F7
+SysName30=HP
+SysId31=0x81F7
+SysName31=
+SysId32=0x81E5
+SysName32=HP;HP 240 G5;HP 245 G5
+SysId33=0x81E6
+SysName33=HP
+SysId34=0x8305
+SysName34=HP;HP 240 G5;HP 245 G5
+SysId35=0x8306
+SysName35=HP
+SysId36=0x82E1
+SysName36=HP Notebook HP x360 Covertible PC;HP Stream x360 Convertible PC HP Stream x360 Convertible
+SysId37=0x825D
+SysName37=
+SysId38=0x825E
+SysName38=
+SysId39=0x8261
+SysName39=
+SysId40=0x8262
+SysName40=
+SysId41=0x8309
+SysName41=OMEN by HP 880-p0xx  Desktop PC
+SysId42=0x8307
+SysName42=OMEN by HP 880-p0xx  Desktop PC
+SysId43=0x8308
+SysName43=OMEN by HP 880-p0xx  Desktop PC
+SysId44=0x8328
+SysName44=HP Notebook 15 Laptop PC;HP 250 G6;HP 256 G6
+SysId45=0x8329
+SysName45=HP Notebook 15 Laptop PC;HP 250 G6;HP 256 G6
+SysId46=0x832A
+SysName46=HP Notebook 15 Laptop PC;HP 250 G6;HP 256 G6
+SysId47=0x832B
+SysName47=HP Notebook 15 Laptop PC;HP 250 G6;HP 256 G6
+SysId48=0x832C
+SysName48=HP Notebook 15 Laptop PC;HP 250 G6;HP 256 G6
+SysId49=0x832D
+SysName49=HP Notebook 15 Laptop PC
+SysId50=0x8259
+SysName50=
+SysId51=0x825A
+SysName51=
+SysId52=0x82EA
+SysName52=
+SysId53=0x8330
+SysName53=HP Notebook 15 Laptop PC;HP 255 G6
+SysId54=0x8331
+SysName54=HP Notebook 15 Laptop PC
+SysId55=0x8332
+SysName55=HP Notebook 15 Laptop PC
+SysId56=0x8333
+SysName56=HP Notebook 15 Laptop PC
+SysId57=0x81AD
+SysName57=
+SysId58=0x8191
+SysName58=HP 340 G3;HP 346 G3;HP 348 G3
+SysId59=0x8192
+SysName59=HP 340 G3;HP 346 G3;HP 348 G3
+SysId60=0x8193
+SysName60=HP 340 G3;HP 346 G3;HP 348 G3
+SysId61=0x8194
+SysName61=HP 340 G3;HP 346 G3;HP 348 G3
+SysId62=0x8195
+SysName62=HP 340 G3;HP 346 G3;HP 348 G3
+SysId63=0x8196
+SysName63=HP 340 G3;HP 346 G3;HP 348 G3
+SysId64=0x82C3
+SysName64=HP 340 G4;HP 346 G4;HP 348 G4
+SysId65=0x82C4
+SysName65=HP 340 G4;HP 346 G4;HP 348 G4
+SysId66=0x82C5
+SysName66=HP 340 G4;HP 346 G4;HP 348 G4
+SysId67=0x82C6
+SysName67=HP 340 G4;HP 346 G4;HP 348 G4
+SysId68=0x82C7
+SysName68=HP 340 G4;HP 346 G4;HP 348 G4
+SysId69=0x82C8
+SysName69=HP 340 G4;HP 346 G4;HP 348 G4
+SysId70=0x8219
+SysName70=
+SysId71=0x821A
+SysName71=
+SysId72=0x82B7
+SysName72=HP ENVY x360
+SysId73=0x81C5
+SysName73=HP Z 4 G4 Workstation
+SysId74=0x804E
+SysName74=HP Spectre x360 Convertible  Convertible
+SysId75=0x804F
+SysName75=HP Spectre x360 Convertible  Convertible
+SysId76=0x8035
+SysName76=HP Spectre x360 Convertible  Convertible
+SysId77=0x802D
+SysName77=HP Spectre x360 Convertible  Convertible
+SysId78=0x81A1
+SysName78=HP Spectre x360 Convertible  Convertible
+SysId79=0x8197
+SysName79=HP Spectre Pro x360 G2  Convertible PC
+SysId80=0x8198
+SysName80=HP Spectre Pro x360 G2  Convertible PC
+SysId81=0x8392
+SysName81=OMEN by HP 15  Laptop PC
+SysId82=0x8293
+SysName82=OMEN by HP 15  Laptop PC
+SysId83=0x8394
+SysName83=OMEN by HP 15  Laptop PC
+SysId84=0x81DB
+SysName84=HP;HP 240 G5;HP 246 G5
+SysId85=0x81DC
+SysName85=HP
+SysId86=0x81DF
+SysName86=HP;HP 240 G5;HP 246 G5
+SysId87=0x81E0
+SysName87=HP
+SysId88=0x81E1
+SysName88=HP;HP 240 G5;HP 246 G5
+SysId89=0x81DD
+SysName89=;HP 240 G5;HP 246 G5
+SysId90=0x81DE
+SysName90=
+SysId91=0x81E3
+SysName91=;HP 240 G5;HP 246 G5
+SysId92=0x81EA
+SysName92=HP 240 G5;HP 246 G5
+SysId93=0x8324
+SysName93=HP Notebook 14 Laptop PC;HP 245 G6
+SysId94=0x8325
+SysName94=HP Notebook 14 Laptop PC
+SysId95=0x82FF
+SysName95=HP Slimline 270-a0xx  Desktop PC
+SysId96=0x82F2
+SysName96=HP Slimline 270-p0xx  Desktop PC;HP Slimline 270-a0xx  Desktop PC;HP Pavilion  570-a0xx  Desktop PC;HP Pavilion  570-p0xx  Desktop PC
+SysId97=0x82F9
+SysName97=HP Slimline 270-p0xx  Desktop PC;HP Slimline 270-a0xx  Desktop PC;HP Pavilion  570-a0xx  Desktop PC;HP Pavilion  570-p0xx  Desktop PC
+SysId98=0x826A
+SysName98=HP 34-b0xx  All-in-One PC
+SysId99=0x82FE
+SysName99=HP Pavilion  570-p0xx  Desktop PC
+SysId100=0x827E
+SysName100=HP Spectre x360  Convertible
+SysId101=0x81C9
+SysName101=HP Pavilion Wave 600-axxx  Desktop PC;HP Pavilion Wave 600-a1xx  Desktop PC
+SysId102=0x82FD
+SysName102=HP Pavilion Wave 600-a1xx  Desktop PC
+SysId103=0x82A9
+SysName103=;
+SysId104=0x82B8
+SysName104=;
+SysId105=0x8217
+SysName105=
+SysId106=0x8218
+SysName106=
+SysId107=0x2B4B
+SysName107=OMEN by HP 870-xxx  Desktop PC
+SysId108=0x830C
+SysName108=
+SysId109=0x81B6
+SysName109=0xx  Desktop PC
+SysId110=0x82E0
+SysName110=1xx  Desktop PC
+SysId111=0x8268
+SysName111=1xx  Desktop PC
+
+[Install Execution]
+Install=
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and
+saving the file to a folder on your hard drive (make a note of the folder where
+the downloaded file is saved).
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 01/04/2017
+Copyright © 2017 HP Development Company, L.P. 

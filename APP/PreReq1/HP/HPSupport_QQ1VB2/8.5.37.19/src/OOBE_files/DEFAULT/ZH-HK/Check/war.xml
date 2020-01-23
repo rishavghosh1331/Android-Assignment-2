@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Last Minute 1C14 Enhancement for USA/EN-US-->
+<list>
+  <item>
+    <label hash="HPWARRANTY_OPTIN_NODE">允許我的電腦顯示說明及保養狀態資訊的聯絡選項。</label>
+    <defaultvalue>false</defaultvalue>
+  </item>
+</list>

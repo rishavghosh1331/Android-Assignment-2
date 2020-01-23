@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Last Minute 1C14 Enhancement for USA/EN-US-->
+<list>
+  <item>
+    <label hash="HPCRITUPD_OPTIN_NODE">
+      Mantener mi equipo actualizado con actualizaciones automáticas de controladores y software importantes de HP.</label>
+    <defaultvalue>true</defaultvalue>
+  </item>
+</list>

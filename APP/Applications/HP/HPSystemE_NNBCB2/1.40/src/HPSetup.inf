@@ -1,0 +1,35 @@
+[INSTALL_SEQUENCE]
+//INSTALL%1 defines install sequence
+INSTALL_1="UNINSTALL_PROGRAM"
+INSTALL_2="COMMAND_INSTALL"
+
+[UNINSTALL_PROGRAM]
+//UNINSTALL%1 defines unintall program from "Programs and Features" control panel
+UNINSTALL_1="HP System Event Utility"
+UNINSTALL_2="HP Quick Launch"
+
+[INSTALL_MSI_PROGRAM]
+
+[COMMAND]
+COMMAND_1="Install.bat"
+
+
+
+[COMMAND_INSTALL]
+INSTALL_1="COMMAND_1"
+
+
+[SYSTEM_ID]
+
+[COMMAND_SYSTEM_ID]
+
+[RETURN_CODE]
+RETURN_CODE_32="COMMAND_1"
+RETURN_CODE_64="COMMAND_1"
+
+[RETURN_CODE_TRANSLATION]
+//%1 defines specific return code from execution command return by RETURN_CODE
+//Setup.exe returns translated return code.
+//HPSA Supported return codes are: 0="Success", 259="Failure", 1602="Cancel", 3010="Success Reboot Required"
+//Intel returns 14 as "Success Reboot Required"
+14="3010"

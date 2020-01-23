@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HPWARRANTY_OPTIN_NODE">내 PC에서 연락처 옵션, 보증 정보 및 중요 지원 메시지를 표시하도록 합니다.</label>
+<defaultvalue>true</defaultvalue>
+</item>
+</list>

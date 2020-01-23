@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HPWARRANTY_OPTIN_NODE">Permite afişarea pe PC-ul meu a opţiunilor de contact HP, informaţiilor privind garanţia şi a mesajelor importante de asistenţă.</label>
+<defaultvalue>true</defaultvalue>
+</item>
+</list>

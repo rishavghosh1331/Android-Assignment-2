@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--3C15 changes for USA/EN-US as of 05/10/2015-->
+<list>
+<item>
+<label hash="HP_CIP_OPTIN_NODE">סייע לשפר את איכות המוצרים של HP על-ידי שיתוף השימוש שלך בתוכנה וחומרה של HP ושל יצרנים אחרים.</label>
+<defaultvalue>false</defaultvalue>
+</item>
+</list>
