@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPWARRANTY_OPTIN_NODE">Abilita il mio PC in modo che vengano visualizzate le opzioni di contatto per assistenza e le informazioni di stato della garanzia.</label>
-    <defaultvalue>true</defaultvalue>
-  </item>
-</list>

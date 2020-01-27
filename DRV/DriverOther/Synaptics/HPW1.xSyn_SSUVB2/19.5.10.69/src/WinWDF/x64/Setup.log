@@ -1,6 +1,0 @@
-[ResponseResult]
-ResultCode=0
-[DPInst]
-DpinstReturnCode=0x40000001
-SetupDriverVersion=19.5.10.69
-Certified=YES

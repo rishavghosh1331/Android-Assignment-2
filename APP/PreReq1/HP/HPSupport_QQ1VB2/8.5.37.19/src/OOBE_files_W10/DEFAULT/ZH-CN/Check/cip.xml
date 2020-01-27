@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--3C15 changes for USA/EN-US as of 05/10/2015-->
-<list>
-<item>
-<label hash="HP_CIP_OPTIN_NODE">分享 HP/非 HP 软硬件使用情形来帮助提高 HP 产品质量。</label>
-<defaultvalue>false</defaultvalue>
-</item>
-</list>

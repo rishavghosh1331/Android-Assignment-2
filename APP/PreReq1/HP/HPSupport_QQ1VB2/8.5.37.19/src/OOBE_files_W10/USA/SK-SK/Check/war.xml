@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--3C15 changes for USA/EN-US as of 05/10/2015-->
-<list>
-<item>
-<label hash="HPWARRANTY_OPTIN_NODE">Aktivovať v tomto počítači, aby sa zobrazovali možnosti kontaktov, záručné informácie a dôležité správy podpory.</label>
-<defaultvalue>true</defaultvalue>
-</item>
-</list>

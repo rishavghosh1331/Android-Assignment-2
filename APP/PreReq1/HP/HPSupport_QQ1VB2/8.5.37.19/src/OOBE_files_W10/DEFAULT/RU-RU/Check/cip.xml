@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--3C15 changes for USA/EN-US as of 05/10/2015-->
-<list>
-<item>
-<label hash="HP_CIP_OPTIN_NODE">Помогите улучшить продукты HP, разрешив доступ к информации о работе ПО и аппаратных средств.</label>
-<defaultvalue>false</defaultvalue>
-</item>
-</list>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--3C15 changes for USA/EN-US as of 05/10/2015-->
-<list>
-<item>
-<label hash="HPWARRANTY_OPTIN_NODE">Iespējot manu datoru parādīt sazināšanās iespējas, garantijas informāciju un svarīgus atbalsta ziņojumus.</label>
-<defaultvalue>true</defaultvalue>
-</item>
-</list>

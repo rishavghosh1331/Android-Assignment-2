@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPCRITUPD_OPTIN_NODE">
-      自動更新來自 HP 的重要驅動程式及軟件，讓您的電腦時刻保持最新狀態。</label>
-    <defaultvalue>true</defaultvalue>
-  </item>
-</list>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPWARRANTY_OPTIN_NODE">Įgalinti mano kompiuterį rodyti kontaktų parinktis, kad būtų galima gauti informaciją apie pagalbą ir garantijos būseną.</label>
-    <defaultvalue>false</defaultvalue>
-  </item>
-</list>

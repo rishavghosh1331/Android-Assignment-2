@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--3C15 changes for USA/EN-US as of 05/10/2015-->
-<list>
-<item>
-<label hash="HPWARRANTY_OPTIN_NODE">讓我的電腦能夠顯示連絡人選項、保固資訊以及重要的支援訊息。</label>
-<defaultvalue>true</defaultvalue>
-</item>
-</list>

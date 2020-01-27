@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPWARRANTY_OPTIN_NODE">Permet que el meu ordinador mostri opcions de contacte per obtenir ajuda i informació de l'estat de la garantia.</label>
-    <defaultvalue>true</defaultvalue>
-  </item>
-</list>

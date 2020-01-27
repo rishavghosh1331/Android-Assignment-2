@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPCRITUPD_OPTIN_NODE">
-      ทำให้ PC ของฉันเป็นปัจจุบันอยู่เสมอด้วยการอัพเดตโปรแกรมควบคุมและซอฟต์แวร์ที่สำคัญจาก HP โดยอัตโนมัติ</label>
-    <defaultvalue>true</defaultvalue>
-  </item>
-</list>

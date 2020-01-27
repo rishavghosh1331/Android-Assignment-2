@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPWARRANTY_OPTIN_NODE">Enable my PC to display contact options for help and warranty status information.</label>
-    <defaultvalue>false</defaultvalue>
-  </item>
-</list>

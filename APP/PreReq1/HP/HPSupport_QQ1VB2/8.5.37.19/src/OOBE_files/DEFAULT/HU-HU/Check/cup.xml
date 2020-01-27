@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPCRITUPD_OPTIN_NODE">
-      Tartsa a számítógépemet naprakészen a fontos illesztőprogramok és szoftverek HP által biztosított automatikus frissítése révén.</label>
-    <defaultvalue>true</defaultvalue>
-  </item>
-</list>

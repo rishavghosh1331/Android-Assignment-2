@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--3C15 changes for USA/EN-US as of 05/10/2015-->
-<list>
-<item>
-<label hash="HP_CIP_OPTIN_NODE">HP 제품의 품질 개선을 위해 HP 및 타사의 소프트웨어, 하드웨어 사용 경험을 공유해 주십시오.</label>
-<defaultvalue>false</defaultvalue>
-</item>
-</list>

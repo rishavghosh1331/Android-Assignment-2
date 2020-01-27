@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Last Minute 1C14 Enhancement for USA/EN-US-->
-<list>
-  <item>
-    <label hash="HPCRITUPD_OPTIN_NODE">
-      Keep my PC up-to-date with automated updating of important drivers and software from HP.</label>
-    <defaultvalue>true</defaultvalue>
-  </item>
-</list>
