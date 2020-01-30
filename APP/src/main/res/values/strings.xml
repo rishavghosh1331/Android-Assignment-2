@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EnidEddieno</string>
+    <string name="app_name">Kotlin Sec2</string>
+    <string name="NicknameText">TextView</string>
 </resources>
