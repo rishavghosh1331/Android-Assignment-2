@@ -3,75 +3,66 @@
 <layout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
-    
+
     <data>
         <variable
             name="MyData"
-            type="com.example.kotlinsec2.MyNumbers" />
+            type="com.example.rishu.R" />
     </data>
-<LinearLayout
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
 
-    <EditText
-        android:id="@+id/first"
-        android:text="@={MyData.firstNum}"
-        android:layout_width="350dp"
-        android:layout_marginTop="40dp"
-        android:layout_marginLeft="30dp"
-        android:visibility="visible"
-        android:layout_height="80dp" />
+        <EditText
+            android:id="@+id/date"
+            android:layout_width="350dp"
+            android:layout_height="80dp"
+            android:textSize="50sp"
+            android:text="@={MyData.firstNum}"
 
-    <TextView
-        android:id="@+id/firstPlus"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
-        android:text="@={MyData.firstPlusOne}"
-        android:textSize="50sp"
-        android:visibility="gone"/>
+            android:layout_marginLeft="30dp"/>
 
-    <EditText
-        android:layout_width="350dp"
-        android:layout_height="80dp"
-        android:textSize="50sp"
-        android:text="@={MyData.secondNum}"
-        android:id="@+id/second"
-        android:layout_marginLeft="30dp"/>
-    <TextView
-        android:id="@+id/secondPlus"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
-        android:text="@={MyData.secondPlusOne}"
-        android:textSize="50sp"
-        android:visibility="gone"/>
-    <EditText
-        android:layout_width="350dp"
-        android:layout_height="80dp"
-        android:textSize="50sp"
-        android:id="@+id/third"
-        android:text="@={MyData.thirdNum}"
-        android:layout_marginLeft="30dp"/>
-    <TextView
-        android:id="@+id/thirdPlus"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
-        android:text="@={MyData.thirdPlusOne}"
-        android:textSize="50sp"
-        android:visibility="gone"/>
 
-    <Button
-        android:layout_marginTop="100dp"
-        android:layout_width="200dp"
-        android:id="@+id/addOne"
-        android:layout_marginLeft="90dp"
-        android:layout_marginRight="30dp"
-        android:layout_height="80dp"/>
 
-</LinearLayout>
+        <EditText
+            android:id="@+id/month"
+            android:layout_width="350dp"
+            android:layout_height="80dp"
+            android:textSize="50sp"
+            android:text="@={MyData.secondNum}"
+
+            android:layout_marginLeft="30dp"/>
+
+        <EditText
+            android:id="@+id/year"
+            android:layout_width="350dp"
+            android:layout_height="80dp"
+            android:textSize="50sp"
+
+            android:text="@={MyData.thirdNum}"
+            android:layout_marginLeft="30dp"/>
+
+        <TextView
+            android:id="@+id/line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:text="@={MyData.firstPlusOne}"
+            android:textSize="50sp"
+            android:visibility="gone"/>
+
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="237dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginRight="30dp"
+            android:text="Press me"/>
+
+    </LinearLayout>
 </layout>
+
