@@ -1,18 +1,19 @@
-package com.example.kotlinsec2
-
+package com.example.rishu
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.InputMethodManager
 import androidx.databinding.DataBindingUtil
-import com.example.kotlinsec2.databinding.ActivityMainBinding
+import com.example.rishu.R
+import com.example.rishu.databinding.ActivityMainBinding
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
     private  lateinit var binding: ActivityMainBinding
 
-    private var myNumbers:MyNumbers = MyNumbers()
+    private var myNumbers:R = R()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -20,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.myData = myNumbers
 
-        binding.addOne.setOnClickListener {
+        binding.button.setOnClickListener {
             addName(it)
         }
     }
@@ -28,18 +29,17 @@ class MainActivity : AppCompatActivity() {
     private fun addName(view:View){
 
         binding.apply {
-            myNumbers?.firstPlusOne = (first.text.toString().toInt()+1).toString()
-            myNumbers?.secondPlusOne = (second.text.toString().toInt()+1).toString()
-            myNumbers?.thirdPlusOne = (third.text.toString().toInt()+1).toString()
+            myNumbers.line= "${date.text.toString()} ,${month.text.toString()} , ${year.text.toString()}"
 
-            binding.first.visibility = View.GONE
-            binding.second.visibility = View.GONE
-            binding.third.visibility = View.GONE
-            binding.addOne.visibility = View.GONE
 
-            binding.firstPlus.visibility = View.VISIBLE
-            binding.secondPlus.visibility = View.VISIBLE
-            binding.thirdPlus.visibility = View.VISIBLE
+
+            binding.date.visibility = View.GONE
+            binding.month.visibility = View.GONE
+            binding.year.visibility = View.GONE
+            binding.button.visibility = View.GONE
+
+            binding.line.visibility = View.VISIBLE
+
 
             invalidateAll()
         }
@@ -48,3 +48,4 @@ class MainActivity : AppCompatActivity() {
         inputMethodManager.hideSoftInputFromWindow(view.windowToken,0)
     }
 }
+
